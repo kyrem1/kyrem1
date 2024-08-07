@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">I'm James Harbour 4th</h1> 
-<h3 align="center">a 4th Year Math & CS student at the University of Virginia</h3>h3>
-###
+<h3 align="center">a 4th Year Math & CS student at the University of Virginia</h3>
 
 ## Mathematics: 
 
