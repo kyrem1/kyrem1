@@ -27,9 +27,10 @@ I'm James Harbour, a 4th year Math & CS student at the University of Virginia.
 - Links between Hyperbolic polynomials and Tracial Joint Spectral Measures
 
 ## My Setup
+See my <a href="https://github.com/kyrem1/dotfiles">dotfiles repository</a> for my configuration files. 
 - OS: arch linux
 - Editor: neovim
 - WM: i3gaps
 - Terminal: alacritty
 - Colorscheme: nord
-See my <a href="https://github.com/kyrem1/dotfiles">dotfiles repository</a> for my configuration files. 
+
