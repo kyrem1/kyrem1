@@ -12,8 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">I'm James Harbour 4th</h1> 
-<h3 align="center">a 4th Year Math & CS student at the University of Virginia</h3>
+## About Me
+I'm James Harbour, a 4th year Math & CS student at the University of Virginia. 
+- I am a FOSS enthusiast and avid linux user
+- I love learning how and why things work
 
 ## Mathematics: 
 
