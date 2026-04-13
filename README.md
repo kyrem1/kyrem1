@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-I'm James Harbour, a 4th year Math & CS student at the University of Virginia. 
+I'm James Harbour, a 1st Year Mathematics PhD Student at University of California: San Diego. 
 - I am a FOSS enthusiast and avid linux user
 - I love learning how and why things work
 
